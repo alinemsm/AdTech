@@ -4,7 +4,7 @@ Curated papers in online advertising.
 
 ## Theory
 
-1.[A Theory of Auctions and Competitive Bidding](https://www.kellogg.northwestern.edu/research/math/papers/447.pdf) (Milgrom)
+1. [A Theory of Auctions and Competitive Bidding](https://www.kellogg.northwestern.edu/research/math/papers/447.pdf) (Milgrom)
 
 2. [Position auctions](https://people.ischool.berkeley.edu/~hal/Papers/2006/position.pdf) (Varian)
 
