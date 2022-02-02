@@ -39,8 +39,8 @@ Optimizing Profits in Display Advertising](https://arxiv.org/pdf/1803.02194.pdf)
 
   **Related Papers:**
   
-      - [iPinYou Global RTB Bidding Algorithm Competition Dataset](http://contest.ipinyou.com/ipinyou-dataset.pdf)
-      - [Real-Time Bidding Benchmarking with iPinYou Dataset](https://arxiv.org/pdf/1407.7073v2.pdf)
+     - [iPinYou Global RTB Bidding Algorithm Competition Dataset](http://contest.ipinyou.com/ipinyou-dataset.pdf)
+     - [Real-Time Bidding Benchmarking with iPinYou Dataset](https://arxiv.org/pdf/1407.7073v2.pdf)
 
 - [Criteo 1TB Click Log Dataset](https://labs.criteo.com/2013/12/download-terabyte-click-logs-2/) - [Kaggle Competition](https://www.kaggle.com/c/criteo-display-ad-challenge)
 
