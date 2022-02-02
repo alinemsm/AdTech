@@ -38,6 +38,7 @@ Optimizing Profits in Display Advertising](https://arxiv.org/pdf/1803.02194.pdf)
 - [iPinYou Global RTB Bidding Algorithm Competition Dataset](https://contest.ipinyou.com/)
 
   **Related Papers:**
+  
       - [iPinYou Global RTB Bidding Algorithm Competition
 Dataset](http://contest.ipinyou.com/ipinyou-dataset.pdf)
       - [Real-Time Bidding Benchmarking with iPinYou Dataset](https://arxiv.org/pdf/1407.7073v2.pdf)
@@ -49,6 +50,7 @@ Dataset](http://contest.ipinyou.com/ipinyou-dataset.pdf)
 - [YOYI Bidding Dataset](https://apex.sjtu.edu.cn/datasets/7)
 
   **Related Papers:**
+  
     - [Bidding Machine: Learning to Bid for Directly
 Optimizing Profits in Display Advertising](https://arxiv.org/pdf/1803.02194.pdf)
     - [User Response Learning for Directly Optimizing
