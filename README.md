@@ -36,7 +36,7 @@ Optimizing Profits in Display Advertising](https://arxiv.org/pdf/1803.02194.pdf)
 ## Data
 
 - [iPinYou Global RTB Bidding Algorithm Competition Dataset](https://contest.ipinyou.com/)
-- 
+
   **Related Papers:**
       - [iPinYou Global RTB Bidding Algorithm Competition
 Dataset](http://contest.ipinyou.com/ipinyou-dataset.pdf)
