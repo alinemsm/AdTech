@@ -35,6 +35,10 @@ Optimizing Profits in Display Advertising](https://arxiv.org/pdf/1803.02194.pdf)
 - [The effect of false-name bids in combinatorial
 auctions: new fraud in internet auctions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.6917&rep=rep1&type=pdf)
 
+- [Display Advertising with
+Real-Time Bidding (RTB) and
+Behavioural Targeting](https://arxiv.org/pdf/1610.03013.pdf)
+
 ## Data
 
 - [iPinYou Global RTB Bidding Algorithm Competition Dataset](https://contest.ipinyou.com/)
